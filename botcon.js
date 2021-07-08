@@ -99,5 +99,5 @@ client.on('message', msg => {
     }
 });
 
-client.login("ODYyNjU3OTE2NzIwNzc1MTk5.YObiyg.aTLE5JkjhPmaLHgnKZhaHId5Kno");
+client.login("SUPER SECRET TOKEN"); //reemplazar por token
 
